@@ -1,5 +1,5 @@
 {
-  "versao": "1.0.0",
-  "url": "https://github.com/Gcumaru/habilidah-releases/releases/download/v1.0.0/app-release.apk",
-  "notas": "Primeira versao publicada com verificacao automatica de atualizacoes."
+  "versao": "1.1.0",
+  "url": "https://github.com/Gcumaru/habilidah-releases/releases/download/v1.1.0/app-release.apk",
+  "notas": "Codigo de ativacao agora preso ao aparelho (mais seguranca) e correcao no botao de copiar."
 }
