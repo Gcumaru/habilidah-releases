@@ -1,5 +1,5 @@
 {
-  "versao": "1.2.0",
-  "url": "https://github.com/Gcumaru/habilidah-releases/releases/download/v1.2.0/app-release.apk",
-  "notas": "Versao de teste com Matematica liberada, solicitacao de ativacao com preco pelo WhatsApp, e correcoes de navegacao."
+  "versao": "1.2.1",
+  "url": "https://github.com/Gcumaru/habilidah-releases/releases/download/v1.2.1/app-release.apk",
+  "notas": "Corrige o botao Solicitar pelo WhatsApp, que nao estava abrindo o WhatsApp."
 }
