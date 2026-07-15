@@ -1,5 +1,5 @@
 {
-  "versao": "1.2.1",
-  "url": "https://github.com/Gcumaru/habilidah-releases/releases/download/v1.2.1/app-release.apk",
-  "notas": "Corrige o botao Solicitar pelo WhatsApp, que nao estava abrindo o WhatsApp."
+  "versao": "1.3.0",
+  "url": "https://github.com/Gcumaru/habilidah-releases/releases/download/v1.3.0/app-release.apk",
+  "notas": "Nova feature: Falar com a IA, assistente que sugere atividades por habilidade. Busca fixa nas telas, trilha de navegacao consistente, contraste melhor no modo escuro e periodo de teste agora de 10 dias."
 }
