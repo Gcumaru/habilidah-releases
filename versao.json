@@ -1,5 +1,5 @@
 {
-  "versao": "1.4.0",
-  "url": "https://github.com/Gcumaru/habilidah-releases/releases/download/v1.4.0/app-release.apk",
-  "notas": "Agora cada aparelho testa gratuitamente uma serie a escolha; depois do teste ela vira somente leitura em vez de travar. Avaliacao agora e editavel. Lembrete de ativacao a cada 3a abertura. Correcoes de estabilidade nos dialogos e nas respostas da IA."
+    "url":  "https://github.com/Gcumaru/habilidah-releases/releases/download/v1.5.0/app-release.apk",
+    "notas":  "Melhorias internas e de estabilidade.",
+    "versao":  "1.5.0"
 }
